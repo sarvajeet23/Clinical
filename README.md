@@ -1,16 +1,6 @@
 # test8
+Testing _UI design.
+![Screenshot_1714822655](https://github.com/sarvajeet23/Clinical/assets/96564542/6be19c3d-6185-4d9d-838f-cb3cfaaf5a27)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1714822663](https://github.com/sarvajeet23/Clinical/assets/96564542/5f5bf50e-02ba-4edf-ba78-43a9ace24136)
